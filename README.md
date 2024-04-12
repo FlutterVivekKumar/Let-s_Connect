@@ -18,7 +18,7 @@ To run the Let's Connect chat app on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/FlutterVivekKumar/Let-s_Connect.git
    ```
 
 2. Navigate to the project directory:
@@ -45,7 +45,7 @@ To run the Let's Connect chat app on your local machine, follow these steps:
 
 ## Usage
 - Upon launching the app, users can sign in or create an account to access the chat features.
-- Users can start new conversations by selecting a contact from their list and sending messages in the chat interface.
+- Users can start new conversations by  sending messages in the chat interface.
 - Notifications will be delivered to users' devices when they receive new messages, even if the app is in the background.
 
 ## Contributing
