@@ -14,7 +14,7 @@ Let's Connect is a simple chat application designed to connect users and facilit
 - **Firebase Cloud Messaging (FCM)**: FCM is utilized for sending push notifications to users' devices.
 
 ## Screenshots
-## Screenshots
+
 
 |  SignUp Screen | Login Screen |  Splash Screen | Chat Screen  | Drawer  |
 | --- | --- |  --- |  --- |  --- |  
