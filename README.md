@@ -13,6 +13,14 @@ Let's Connect is a simple chat application designed to connect users and facilit
 - **Firebase Cloud Firestore**: Firestore is used as the backend database to store chat messages and user data.
 - **Firebase Cloud Messaging (FCM)**: FCM is utilized for sending push notifications to users' devices.
 
+## Screenshots
+## Screenshots
+
+|  SignUp Screen | Login Screen |  Splash Screen | Chat Screen  | Drawer  |
+| --- | --- |  --- |  --- |  --- |  
+| ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124937.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124933.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124928.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124919.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124923.jpg) |
+
+
 ## Installation
 To run the Let's Connect chat app on your local machine, follow these steps:
 
