@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "11356432674",
+    "project_id": "af-boiler-project",
+    "storage_bucket": "af-boiler-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11356432674:android:a06e535cf3f0ca69229d7b",
+        "android_client_info": {
+          "package_name": "com.example.btu_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11356432674-7lb75003j9pf69c3iohr2al59icaj903.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDub9o-GgBsZblHjx1mcytWooGLp3hZ5zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11356432674-7lb75003j9pf69c3iohr2al59icaj903.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11356432674-8mgvgh667s9bast8ogd5tbm1jlv7klcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btuCalculator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11356432674:android:a794ac3472ebb4b9229d7b",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11356432674-7lb75003j9pf69c3iohr2al59icaj903.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDub9o-GgBsZblHjx1mcytWooGLp3hZ5zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11356432674-7lb75003j9pf69c3iohr2al59icaj903.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11356432674-8mgvgh667s9bast8ogd5tbm1jlv7klcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btuCalculator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11356432674:android:5dcacae19bb2abd0229d7b",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11356432674-7lb75003j9pf69c3iohr2al59icaj903.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDub9o-GgBsZblHjx1mcytWooGLp3hZ5zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11356432674-7lb75003j9pf69c3iohr2al59icaj903.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11356432674-8mgvgh667s9bast8ogd5tbm1jlv7klcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btuCalculator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11356432674:android:19a40bde342bf43b229d7b",
+        "android_client_info": {
+          "package_name": "com.matrid.google_sign_in_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11356432674-a4drrb4k0bnbfuuubsl9p3ovo5d8bohm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.matrid.google_sign_in_sample",
+            "certificate_hash": "8cde4359e2b4459a80a633cd328a3e2a6c27c0ca"
+          }
+        },
+        {
+          "client_id": "11356432674-7lb75003j9pf69c3iohr2al59icaj903.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDub9o-GgBsZblHjx1mcytWooGLp3hZ5zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11356432674-7lb75003j9pf69c3iohr2al59icaj903.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11356432674-8mgvgh667s9bast8ogd5tbm1jlv7klcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btuCalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
