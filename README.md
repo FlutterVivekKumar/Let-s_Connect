@@ -18,7 +18,7 @@ Let's Connect is a simple chat application designed to connect users and facilit
 
 |  SignUp Screen | Login Screen |  Splash Screen | Chat Screen  | Drawer  |
 | --- | --- |  --- |  --- |  --- |  
-| ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124937.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124933.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124928.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124919.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124923.jpg) |
+| ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124937.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124933.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124928.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_131551.jpg) | ![](https://github.com/FlutterVivekKumar/Let-s_Connect/blob/main/screenshots/Screenshot_20240412_124923.jpg) |
 
 
 ## Installation
